@@ -1,0 +1,14 @@
+C:\VB2010 Projects\splashsplash\Disclaimer\bin\Release\Disclaimer.exe.manifest
+C:\VB2010 Projects\splashsplash\Disclaimer\bin\Release\Disclaimer.application
+C:\VB2010 Projects\splashsplash\Disclaimer\bin\Release\Disclaimer.exe
+C:\VB2010 Projects\splashsplash\Disclaimer\bin\Release\Disclaimer.pdb
+C:\VB2010 Projects\splashsplash\Disclaimer\bin\Release\Disclaimer.xml
+C:\VB2010 Projects\splashsplash\Disclaimer\obj\x86\Release\WindowsApplication1.Dialog1.resources
+C:\VB2010 Projects\splashsplash\Disclaimer\obj\x86\Release\WindowsApplication1.Form1.resources
+C:\VB2010 Projects\splashsplash\Disclaimer\obj\x86\Release\WindowsApplication1.Resources.resources
+C:\VB2010 Projects\splashsplash\Disclaimer\obj\x86\Release\Disclaimer.vbproj.GenerateResource.Cache
+C:\VB2010 Projects\splashsplash\Disclaimer\obj\x86\Release\Disclaimer.exe.manifest
+C:\VB2010 Projects\splashsplash\Disclaimer\obj\x86\Release\Disclaimer.application
+C:\VB2010 Projects\splashsplash\Disclaimer\obj\x86\Release\Disclaimer.exe
+C:\VB2010 Projects\splashsplash\Disclaimer\obj\x86\Release\Disclaimer.xml
+C:\VB2010 Projects\splashsplash\Disclaimer\obj\x86\Release\Disclaimer.pdb
