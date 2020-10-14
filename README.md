@@ -2,7 +2,8 @@
 PSS is an open source launcher that is mainly used for if you want to make a disclaimer pop up before another exe.
 
 # Why are you making this?
-I made this to make a sample message before programs start, using WinRar self extractors as a base, that open the disclaimer, which open the thing.
+Because I just felt like sharing code that anybody could replicate.
+I felt like it would help for future projects as well, so there's that.
 
 # How does it work?
 It uses WinRar as a settler, that then launches the disclaimer, which then launches a setup/program hidden away in a temp folder made by WinRar.
